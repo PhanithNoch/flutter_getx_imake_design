@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="18" cy="18" r="18" fill="#4A4A4A" opacity=".5"/>
+        <g fill="#FFF">
+            <text font-family="Kanit-Light, Kanit" font-size="9" font-weight="300" transform="translate(10 4)">
+                <tspan x="0" y="26">Edit</tspan>
+            </text>
+            <path fill-rule="nonzero" d="M26.597 4.403c.538.538.537 1.41 0 1.948l-.65.649L24 5.052l.649-.649a1.378 1.378 0 0 1 1.948 0zm-10.883 8.74L15 16l2.857-.714L25 8.143 22.856 6l-7.142 7.143zM23 11.536V18H13V8h6.464l2-2H11v14h14V9.536l-2 2z"/>
+        </g>
+    </g>
+</svg>
